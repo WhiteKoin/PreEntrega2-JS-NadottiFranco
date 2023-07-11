@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: lightpink;
+}
+
+.header_index {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: solid black 2px;
+    background-color: coral;
+}
+
+.main_div_texto {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.main_div_button {
+    margin-top: 20px;
+    padding: 10px;
+}
